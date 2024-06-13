@@ -29,6 +29,7 @@ JavaScript Functionality: The JavaScript adds interactivity by allowing users to
 7. Testing the App
 Open index.html in a web browser to test your to-do list app. You should be able to add new tasks by typing in the input field and clicking "Add Task". Each task should appear in the list with a "Delete" button that removes the task when clicked.
 
+
 ![Screenshot (19)](https://github.com/RishitaModi/To-Do-List/assets/149221459/e466a2ba-2697-4eb0-aa30-852450f63ec1)
 
 ![Screenshot (20)](https://github.com/RishitaModi/To-Do-List/assets/149221459/6f0c3723-f010-422c-9598-8b5af0258efd)
