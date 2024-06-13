@@ -33,6 +33,4 @@ Open index.html in a web browser to test your to-do list app. You should be able
 
 ![Screenshot (20)](https://github.com/RishitaModi/To-Do-List/assets/149221459/6f0c3723-f010-422c-9598-8b5af0258efd)
 
-![Screenshot (21)](https://github.com/RishitaModi/To-Do-List/assets/149221459/0c588f36-2b80-4c52-995d-dd000f3ac657)
-
 ![Screenshot (22)](https://github.com/RishitaModi/To-Do-List/assets/149221459/e566609e-83ec-4851-b781-ce95d2728b53)
