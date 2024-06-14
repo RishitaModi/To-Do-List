@@ -23,7 +23,9 @@ Open app.js and add the JavaScript to handle the to-do list functionality.
 5. Putting It All Together
    
 HTML Structure: The HTML provides the structure of the app, including a form to add tasks and an unordered list to display them.
+
 CSS Styling: The CSS makes the app visually appealing by styling the container, form, and list items.
+
 JavaScript Functionality: The JavaScript adds interactivity by allowing users to add new tasks and delete existing ones.
 
 7. Testing the App
