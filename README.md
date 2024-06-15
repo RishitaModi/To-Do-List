@@ -1,6 +1,6 @@
 
 # To-Do-List
-This repository contains the code for a simple yet powerful to-do list application. The app is designed to help users keep track of their daily tasks, set priorities, and manage their time efficiently.
+Welcome to the To-Do List repository! This repository contains the code for a simple yet powerful to-do list application. The app is designed to help users keep track of their daily tasks, set priorities, and manage their time efficiently.
 
 Creating a simple to-do list app using HTML, CSS, and JavaScript involves several steps. Here is a step-by-step guide to help you through the process:
 
